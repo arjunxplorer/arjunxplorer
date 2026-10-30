@@ -81,7 +81,6 @@ One-line outcome.
 ## GitHub
 
 <p>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arjunxplorer&theme=github_dark" alt="GitHub Stats" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arjunxplorer&theme=github_dark" alt="Top Languages" />
 </p>
 
