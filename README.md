@@ -80,9 +80,10 @@ One-line outcome.
 
 ## GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjunxplorer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide=stars&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunxplorer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+<p>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arjunxplorer&theme=github_dark" alt="GitHub Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arjunxplorer&theme=github_dark" alt="Top Languages" />
+</p>
 
 ---
 
