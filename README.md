@@ -36,9 +36,9 @@ macOS menu-bar app that moves the cursor, clicks, drags, and scrolls with on-dev
 Focus sessions with timer, tasks, history, and streaks — brew a session and keep momentum.  
 **Stack:** React, TypeScript, Vite, Supabase, Tailwind · **Type:** Full-stack product
 
-### [Cotra](https://github.com/arjunxplorer/Cotra)
-Student collaboration platform with auth, creative briefs, and a Node backend.  
-**Stack:** React, Vite, Tailwind, Express · **Type:** Full-stack web
+### [CoopBase](https://github.com/arjunxplorer/CoopBase)
+Auth foundation — signup/login with JWT cookies, refresh tokens, and protected routes (React + Express).  
+**Stack:** React, Vite, Express, JWT · **Type:** Auth / systems practice
 
 ### [PodStream](https://github.com/arjunxplorer/PodStream)
 Podcast app with auth, search, playback, uploads, and SoundCloud integration.  
@@ -48,9 +48,9 @@ Podcast app with auth, search, playback, uploads, and SoundCloud integration.
 Interactive maze visualizer in the browser.  
 **Stack:** HTML / JS · **Type:** Algorithms / viz
 
-### [CoopBase](https://github.com/arjunxplorer/CoopBase)
-Student collaboration hub (React SPA).  
-**Stack:** React, Vite, Tailwind · **Type:** Web app
+### [Cotra](https://github.com/arjunxplorer/Cotra)
+Student collaboration platform — auth, creative briefs, categories, and image uploads with a Node/Postgres backend.  
+**Stack:** React, Vite, Tailwind, Express, PostgreSQL · **Type:** Full-stack web
 
 <!-- Add when you share the link:
 ### [FocusFlow](REPO_URL)
