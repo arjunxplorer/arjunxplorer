@@ -1,8 +1,8 @@
 # Arjun Sharma
 
-**Software Engineer · Machine Learning**
+**Aspiring Full Stack Engineer**
 
-I build reliable software and practical ML systems — clear problem → solid design → shipped result.
+Problem -> Design -> Ship
 
 ---
 
@@ -41,5 +41,4 @@ I build reliable software and practical ML systems — clear problem → solid d
 Add your links here (replace the placeholders):
 
 - Portfolio: `https://…`  
-- LinkedIn: `https://linkedin.com/in/…`  
-- Email: `you@example.com`  
+- LinkedIn: `https://linkedin.com/in/…`   
