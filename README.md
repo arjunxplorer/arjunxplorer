@@ -2,7 +2,7 @@
 
 **Aspiring Full Stack Engineer**
 
-Problem -> Design -> Ship
+Problem → Design → Ship
 
 ---
 
@@ -11,6 +11,44 @@ Problem -> Design -> Ship
 - **Software engineering** — full-stack apps, APIs, and systems design  
 - **Machine learning** — models, data pipelines, and applied AI  
 - **Cloud & data** — AWS / Azure / GCP, PostgreSQL, production services  
+
+---
+
+## Featured Projects
+
+### [CipherAI](https://github.com/arjunxplorer/CipherAI)
+Autonomous LLM-driven pentest agent — fingerprint → enumerate → exploit → report inside an isolated Kali container, guided by hundreds of expert security playbooks.  
+**Stack:** Python, Docker, Kali, Playwright · **Type:** AI + security
+
+### [NeuroPipe](https://github.com/arjunxplorer/NeuroPipe)
+High-performance C++20 TCP pub/sub message broker for real-time logs, metrics, and inter-service messaging (async I/O, auto-reconnect, live dashboards).  
+**Stack:** C++20, Asio, CMake · **Type:** Systems / distributed
+
+### [Sketch (CollabBoard)](https://github.com/arjunxplorer/sketch) · [Live](https://sketch-gray.vercel.app/)
+Real-time collaborative whiteboard — multi-user rooms, cursors, and drawing tools over WebSockets.  
+**Stack:** C++20 (Boost.Beast), React, TypeScript, Zustand · **Type:** Full-stack realtime
+
+### [GestureMac](https://github.com/arjunxplorer/use-Mac-with-Gesture)
+macOS menu-bar app that moves the cursor, clicks, drags, and scrolls with on-device hand gestures from the camera.  
+**Stack:** Python, MediaPipe, macOS · **Type:** Computer vision / desktop
+
+### [Maze Solver](https://github.com/arjunxplorer/Maze-Solver) · [Live](https://maze-solver-one-rho.vercel.app)
+Interactive maze visualizer in the browser.  
+**Stack:** HTML / JS · **Type:** Algorithms / viz
+
+### [PodStream](https://github.com/arjunxplorer/PodStream)
+Podcast app with auth, search, playback, uploads, and SoundCloud integration.  
+**Stack:** React, TypeScript, Supabase, Firebase, Express, Tailwind · **Type:** Full-stack product
+
+### [CoopBase](https://github.com/arjunxplorer/CoopBase)
+Student collaboration hub (React SPA).  
+**Stack:** React, Vite, Tailwind · **Type:** Web app
+
+<!-- Add when you share the link:
+### [FocusFlow](REPO_URL)
+One-line outcome.  
+**Stack:** … · **Type:** …
+-->
 
 ---
 
@@ -30,15 +68,13 @@ Problem -> Design -> Ship
 
 ## GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunxplorer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjunxplorer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide=stars&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjunxplorer&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunxplorer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
 ---
 
 ## Contact
 
-Add your links here (replace the placeholders):
-
-- Portfolio: `https://…`  
-- LinkedIn: `https://linkedin.com/in/…`   
+- Portfolio: [arjuncodes.vercel.app](https://arjuncodes.vercel.app)  
+- LinkedIn: [linkedin.com/in/arjunsharma99](https://www.linkedin.com/in/arjunsharma99)  
