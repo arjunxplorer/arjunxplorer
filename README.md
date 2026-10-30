@@ -32,13 +32,21 @@ Real-time collaborative whiteboard — multi-user rooms, cursors, and drawing to
 macOS menu-bar app that moves the cursor, clicks, drags, and scrolls with on-device hand gestures from the camera.  
 **Stack:** Python, MediaPipe, macOS · **Type:** Computer vision / desktop
 
-### [Maze Solver](https://github.com/arjunxplorer/Maze-Solver) · [Live](https://maze-solver-one-rho.vercel.app)
-Interactive maze visualizer in the browser.  
-**Stack:** HTML / JS · **Type:** Algorithms / viz
+### [Focus Flow](https://github.com/arjunxplorer/focus-flow) · [Live](https://focusflowhq.vercel.app/)
+Focus sessions with timer, tasks, history, and streaks — brew a session and keep momentum.  
+**Stack:** React, TypeScript, Vite, Supabase, Tailwind · **Type:** Full-stack product
+
+### [Cotra](https://github.com/arjunxplorer/Cotra)
+Student collaboration platform with auth, creative briefs, and a Node backend.  
+**Stack:** React, Vite, Tailwind, Express · **Type:** Full-stack web
 
 ### [PodStream](https://github.com/arjunxplorer/PodStream)
 Podcast app with auth, search, playback, uploads, and SoundCloud integration.  
 **Stack:** React, TypeScript, Supabase, Firebase, Express, Tailwind · **Type:** Full-stack product
+
+### [Maze Solver](https://github.com/arjunxplorer/Maze-Solver) · [Live](https://maze-solver-one-rho.vercel.app)
+Interactive maze visualizer in the browser.  
+**Stack:** HTML / JS · **Type:** Algorithms / viz
 
 ### [CoopBase](https://github.com/arjunxplorer/CoopBase)
 Student collaboration hub (React SPA).  
