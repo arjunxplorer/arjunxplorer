@@ -24,6 +24,14 @@ Autonomous LLM-driven pentest agent — fingerprint → enumerate → exploit �
 High-performance C++20 TCP pub/sub message broker for real-time logs, metrics, and inter-service messaging (async I/O, auto-reconnect, live dashboards).  
 **Stack:** C++20, Asio, CMake · **Type:** Systems / distributed
 
+### [Environment Provision Portal](https://github.com/arjunxplorer/Environment-Provision-Portal)
+Self-service Kubernetes environments in ~30s — namespace, Postgres, ArgoCD GitOps, Prometheus/Grafana, plus AI review of Terraform plans.  
+**Stack:** Go, Terraform, Kubernetes, ArgoCD, Prometheus · **Type:** Platform / DevOps
+
+### [Research Paper Finder](https://github.com/arjunxplorer/Research-Paper-finder) · [Live](https://research-paper-finder.vercel.app)
+Top-20 paper search for any topic — foundational vs recent modes, multi-source ranking (Semantic Scholar, OpenAlex, PubMed, arXiv).  
+**Stack:** FastAPI, Next.js, PostgreSQL · **Type:** Full-stack + data
+
 ### [Sketch (CollabBoard)](https://github.com/arjunxplorer/sketch) · [Live](https://sketch-gray.vercel.app/)
 Real-time collaborative whiteboard — multi-user rooms, cursors, and drawing tools over WebSockets.  
 **Stack:** C++20 (Boost.Beast), React, TypeScript, Zustand · **Type:** Full-stack realtime
@@ -47,10 +55,6 @@ Podcast app with auth, search, playback, uploads, and SoundCloud integration.
 ### [Maze Solver](https://github.com/arjunxplorer/Maze-Solver) · [Live](https://maze-solver-one-rho.vercel.app)
 Interactive maze visualizer in the browser.  
 **Stack:** HTML / JS · **Type:** Algorithms / viz
-
-### [Cotra](https://github.com/arjunxplorer/Cotra)
-Student collaboration platform — auth, creative briefs, categories, and image uploads with a Node/Postgres backend.  
-**Stack:** React, Vite, Tailwind, Express, PostgreSQL · **Type:** Full-stack web
 
 <!-- Add when you share the link:
 ### [FocusFlow](REPO_URL)
